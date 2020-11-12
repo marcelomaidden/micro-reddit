@@ -28,10 +28,24 @@ You'll need to have both Ruby and Rails installed on your computer.
 # Authors
 
 ## Author 1
+👤**Marcelo Araújo**
 
+- GitHub: [@marcelomaidden](https://github.com/marcelomaidden)
+- Twitter: [@marcelomaidden](https://twitter.com/marcelomaidden)
+- LinkedIn: [Marcelo Fernandes de Araújo](https://www.linkedin.com/in/marcelo-fernandes-de-ara%C3%BAjo-56700a171/)
 
 ## Author 2
-
+👤**Roy Mukuye**
 - GitHub: [@mke2111](https://github.com/mke2111)
 - Twitter: [@Roymkenya](https://twitter.com/Roymkenya)
 - LinkedIn: [Roy Mukuye](https://www.linkedin.com/in/roy-mukuye-42b07b1b4)
+
+## 🤝 contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/marcelomaidden/micro-reddit/issues).
+
+## show-your-support
+
+Give a ⭐️ if you like this project!
