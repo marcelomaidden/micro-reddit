@@ -1,24 +1,37 @@
-# README
+# REDDIT CLONE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> In this project, we modeled a lightweight version of the reddit database. We used MVC concept, specifically the Model for the Users, Comments, and the Posts. 
+> We also included the principles of association and validation.
 
-Things you may want to cover:
+![image](./Screenshot_console.png)
 
-* Ruby version
+## Built with
+- Ruby
+- Rails
+- Rubocop
+- Sqlite3
 
-* System dependencies
+## Getting started
 
-* Configuration
+You'll need to have both Ruby and Rails installed on your computer.
 
-* Database creation
+- In the desired directory, type `git clone https://github.com/marcelomaidden/micro-reddit.git` in the terminal.
 
-* Database initialization
+- Then type `cd micro-reddit` in the terminal to change the directory into the root of the project.
 
-* How to run the test suite
+- Then type `bundle install && yarn install` to download the necessary gem files for the project.
 
-* Services (job queues, cache servers, search engines, etc.)
+- Run `rake db:migrate` to update the database.
 
-* Deployment instructions
+- Run `rails console` to interact with the models.
 
-* ...
+# Authors
+
+## Author 1
+
+
+## Author 2
+
+- GitHub: [@mke2111](https://github.com/mke2111)
+- Twitter: [@Roymkenya](https://twitter.com/Roymkenya)
+- LinkedIn: [Roy Mukuye](https://www.linkedin.com/in/roy-mukuye-42b07b1b4)
